@@ -1,0 +1,28 @@
+body {
+  background-color: black;
+  color: lightgray;
+  font-family: monospace;
+}
+
+.ascii-banner {
+  font-size: 8.0px;
+  overflow: hidden;
+}
+
+hr {
+  border: none;
+  border-top: 1.0px dashed;
+}
+
+p {
+  font-size: 14.0px;
+}
+
+a {
+  color: cyan;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
